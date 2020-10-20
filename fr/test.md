@@ -4,7 +4,7 @@ c'est encore un test, mais différent.
 
 c'est une nouvelle ligne.
 
-this is a paragraph. There are many idiosyncratic typing styles in between novice-style 'hunt and peck' and touch typing. For example, many 'hunt and peck' typists have the keyboard layout memorized and are able to type while focusing their gaze on the screen. This sentence is new.  Some use just two fingers, while others use 3-6 fingers, this sentence is edited. Some use their fingers very consistently, with the same finger being used to type the same character every time, while others vary the way they use their fingers. the end.
+ceci est un paragraphe. Il existe de nombreux styles de frappe idiosyncratiques entre la frappe et la saisie tactiles de style novice. Par exemple, de nombreux dactylographes «chassent et picorent» mémorisent la disposition du clavier et sont capables de taper tout en concentrant leur regard sur l'écran. Cette phrase est nouvelle. Certains n'utilisent que deux doigts, tandis que d'autres utilisent 3-6 doigts, cette phrase est modifiée. Certains utilisent leurs doigts de manière très cohérente, le même doigt étant utilisé pour taper le même caractère à chaque fois, tandis que d'autres varient la façon dont ils utilisent leurs doigts. la fin.
 
 ceci est un nouveau paragraphe.
 
