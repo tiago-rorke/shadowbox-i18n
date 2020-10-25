@@ -4,7 +4,9 @@ title: "Home"
 
 {{< custom-shortcode "one" "two" "three">}}
 
- The trees, therefore, must be such old and primitive techniques that they thought nothing of them, deeming them so inconsequential that even savages like us would know of them and not be suspicious. At that, they probably didn't have too much time after they detected us orbiting and intending to land. And if that were true, there could be only one place where their civilization was hidden.  
+The trees, therefore, must be such old and primitive techniques that they thought nothing of them, deeming them so inconsequential that even savages like us would know of them and not be suspicious. At that, they probably didn't have too much time after they detected us orbiting and intending to land. And if that were true, there could be only one place where their civilization was hidden.  
+
+Here is a new paragraph.  
 
 {{< custom-shortcode "one" "two" "three">}}
 
